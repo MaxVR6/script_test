@@ -1,0 +1,67 @@
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\bin\Debug\TestProject1.dll
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\bin\Debug\TestProject1.pdb
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\bin\Debug\WebDriver.dll
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\bin\Debug\WebDriver.Support.dll
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\bin\Debug\WebDriver.pdb
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\bin\Debug\WebDriver.xml
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\obj\Debug\TestProject1.dll
+D:\TestClub\WizStudio\Projects\MyNewTest01\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\MaxVR6\Desktop\MyNewTest01\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\MaxVR6\Desktop\MyNewTest01\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\MaxVR6\Desktop\MyNewTest01\TestProject1\bin\Debug\WebDriver.pdb
+C:\Users\MaxVR6\Desktop\MyNewTest01\TestProject1\bin\Debug\WebDriver.xml
+C:\Users\MaxVR6\Desktop\MyNewTest01\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\MaxVR6\Desktop\MyNewTest01\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\MaxVR6\Desktop\MyNewTest01\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\MaxVR6\Desktop\d.Treto_test_img\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\MaxVR6\Desktop\d.Treto_test_img\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\MaxVR6\Desktop\d.Treto_test_img\TestProject1\bin\Debug\WebDriver.pdb
+C:\Users\MaxVR6\Desktop\d.Treto_test_img\TestProject1\bin\Debug\WebDriver.xml
+C:\Users\MaxVR6\Desktop\d.Treto_test_img\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\MaxVR6\Desktop\d.Treto_test_img\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\MaxVR6\Desktop\d.Treto_test_img\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\MaxVR6\Desktop\d.Treto_test_img02 - Copy\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\MaxVR6\Desktop\d.Treto_test_img02 - Copy\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\MaxVR6\Desktop\d.Treto_test_img02 - Copy\TestProject1\bin\Debug\WebDriver.pdb
+C:\Users\MaxVR6\Desktop\d.Treto_test_img02 - Copy\TestProject1\bin\Debug\WebDriver.xml
+C:\Users\MaxVR6\Desktop\d.Treto_test_img02 - Copy\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\MaxVR6\Desktop\d.Treto_test_img02 - Copy\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\MaxVR6\Desktop\d.Treto_test_img02 - Copy\TestProject1\obj\Debug\TestProject1.pdb
+D:\max\Bug\d.Treto_test_img02 - Copy\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\max\Bug\d.Treto_test_img02 - Copy\TestProject1\obj\Debug\TestProject1.dll
+D:\max\Bug\d.Treto_test_img02 - Copy\TestProject1\obj\Debug\TestProject1.pdb
+D:\max\Bug\d.Treto_test_img02 - Copy\TestProject1\bin\Debug\TestProject1.dll
+D:\max\Bug\d.Treto_test_img02 - Copy\TestProject1\bin\Debug\TestProject1.pdb
+D:\max\Bug\d.Treto_test_img02 - Copy\TestProject1\bin\Debug\WebDriver.pdb
+D:\max\Bug\d.Treto_test_img02 - Copy\TestProject1\bin\Debug\WebDriver.xml
+D:\max\Bug\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\bin\Debug\TestProject1.dll
+D:\max\Bug\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\bin\Debug\TestProject1.pdb
+D:\max\Bug\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\bin\Debug\WebDriver.pdb
+D:\max\Bug\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\bin\Debug\WebDriver.xml
+D:\max\Bug\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\max\Bug\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\obj\Debug\TestProject1.dll
+D:\max\Bug\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\obj\Debug\TestProject1.pdb
+D:\TestClub\New_Test\vet\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\bin\Debug\TestProject1.dll
+D:\TestClub\New_Test\vet\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\bin\Debug\TestProject1.pdb
+D:\TestClub\New_Test\vet\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\bin\Debug\WebDriver.pdb
+D:\TestClub\New_Test\vet\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\bin\Debug\WebDriver.xml
+D:\TestClub\New_Test\vet\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\TestClub\New_Test\vet\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\obj\Debug\TestProject1.dll
+D:\TestClub\New_Test\vet\d.Treto_test_img_plitkaSerenissima-CirVia-Emilia\TestProject1\obj\Debug\TestProject1.pdb
+D:\TestClub\New_Test\vet\TE_Test_Fabrica_14OraItaliana\TestProject1\bin\Debug\TestProject1.dll
+D:\TestClub\New_Test\vet\TE_Test_Fabrica_14OraItaliana\TestProject1\bin\Debug\TestProject1.pdb
+D:\TestClub\New_Test\vet\TE_Test_Fabrica_14OraItaliana\TestProject1\bin\Debug\WebDriver.pdb
+D:\TestClub\New_Test\vet\TE_Test_Fabrica_14OraItaliana\TestProject1\bin\Debug\WebDriver.xml
+D:\TestClub\New_Test\vet\TE_Test_Fabrica_14OraItaliana\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\TestClub\New_Test\vet\TE_Test_Fabrica_14OraItaliana\TestProject1\obj\Debug\TestProject1.dll
+D:\TestClub\New_Test\vet\TE_Test_Fabrica_14OraItaliana\TestProject1\obj\Debug\TestProject1.pdb
+d:\TE_Test_Fabrica_14OraItaliana\TestProject1\bin\Debug\TestProject1.dll
+d:\TE_Test_Fabrica_14OraItaliana\TestProject1\bin\Debug\TestProject1.pdb
+d:\TE_Test_Fabrica_14OraItaliana\TestProject1\obj\Debug\TestProject1.dll
+d:\TE_Test_Fabrica_14OraItaliana\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\Oxana\Desktop\Test\Test\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Oxana\Desktop\Test\Test\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Oxana\Desktop\Test\Test\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Oxana\Desktop\Test\Test\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Oxana\Desktop\Test\Test\TestProject1\obj\Debug\TestProject1.pdb
